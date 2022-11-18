@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+안녕하세
+
 <!--
 **mjkc22/mjkc22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
