@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-낳실제 괴로움 다 잊으시고 기르실제 밤낮으로 애쓰는 마음 진자리 마른 자리 갈아 뉘시며 손발이 다 닳도록 고생하시네 하늘 아래 그 무엇이 넓다 하리오 어머님의 희생은 가이없어라
 
 <!--
 **mjkc22/mjkc22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
